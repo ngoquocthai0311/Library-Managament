@@ -1,2 +1,2 @@
-# Library-Managament
+# Library-Management
 OPP exercises project
