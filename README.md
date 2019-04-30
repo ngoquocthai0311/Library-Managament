@@ -1,2 +1,2 @@
 # Library-Management
-OPP exercises project
+OOP exercises project
